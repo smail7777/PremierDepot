@@ -1,0 +1,11 @@
+# Fichiers compilés
+bin/
+*.class
+
+# Fichiers IDE Eclipse
+.settings/
+.classpath
+.project
+
+# Fichiers système
+.DS_Store
